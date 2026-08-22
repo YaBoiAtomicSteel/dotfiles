@@ -1,0 +1,6 @@
+dwl/dwl
+dwl/*.o
+dwl/*-protocol.c
+dwl/*-protocol.h
+dwl/.ccls-cache
+dwl/config.h
