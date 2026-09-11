@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=dwl
+Comment=dwm for Wayland
+Exec=sh -c 'slstatus -s | dwl'
+Type=Application

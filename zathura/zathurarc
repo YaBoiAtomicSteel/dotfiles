@@ -1,0 +1,14 @@
+# options
+set selection-clipboard clipboard
+set adjust-open width
+
+# colors
+set recolor true
+set recolor-darkcolor '#c0caf5'
+set recolor-lightcolor '#00000000'
+set statusbar-fg '#c0caf5'
+set statusbar-bg '#00000000'
+set default-fg '#c0caf5'
+set default-bg '#00000080'
+set highlight-fg '#c0caf5'
+set highlight-color '#7aa2f7'
