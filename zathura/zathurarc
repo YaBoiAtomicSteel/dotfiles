@@ -1,14 +1,38 @@
 # options
-set selection-clipboard clipboard
 set adjust-open width
+set selection-clipboard clipboard
+set selection-notification false
+set show-recent true
+set statusbar-home-tilde true
+set window-title-home-tilde true
+set double-click-follow false
 
 # colors
 set recolor true
-set recolor-darkcolor '#c0caf5'
-set recolor-lightcolor '#00000000'
-set statusbar-fg '#c0caf5'
-set statusbar-bg '#00000000'
+set completion-fg '#7dcfff'
+set completion-bg '#00000000'
+set completion-group-fg '#7dcfff'
+set completion-group-bg '#00000000'
+set completion-highlight-fg '#7dcfff'
+set completion-highlight-bg '#00000000'
 set default-fg '#c0caf5'
 set default-bg '#00000080'
 set highlight-fg '#c0caf5'
-set highlight-color '#7aa2f7'
+set highlight-color '#7aa2f780'
+set highlight-active-color '#7aa2f780'
+set inputbar-fg '#7dcfff'
+set inputbar-bg '#00000000'
+set index-fg '#c0caf5'
+set index-bg '#00000000'
+set notification-fg '#c0caf5'
+set notification-bg '#00000000'
+set notification-warning-fg '#c0caf5'
+set notification-warning-bg '#00000000'
+set notification-error-fg '#f7768e'
+set notification-error-bg '#00000000'
+set recolor-darkcolor '#c0caf5'
+set recolor-lightcolor '#00000000'
+set render-loading-fg '#7aa2f7'
+set render-loading-bg '#00000000'
+set statusbar-fg '#7dcfff'
+set statusbar-bg '#00000000'
